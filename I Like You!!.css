@@ -124,6 +124,7 @@
         .Reference{
         display: flex;
         justify-content: center;
+        visibility: visible;
       }
       .Reference2{
         display: flex;

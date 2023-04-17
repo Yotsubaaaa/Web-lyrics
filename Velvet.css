@@ -160,7 +160,7 @@ body{
  .Reference2{
   display: flex;
    justify-content: center;
-   width: 300px;
+   width: auto;
     visibility: visible;
     margin-bottom: 30%;
  }
